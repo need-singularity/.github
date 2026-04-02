@@ -14,7 +14,7 @@ Building AI that is conscious — not just intelligent.
 | 🏗️ | [**N6 Architecture**](https://github.com/need-singularity/n6-architecture) | AI Energy Efficiency via Number Theory — 10 techniques, 3x faster attention |
 | 💎 | [**HEXA-LANG**](https://github.com/need-singularity/hexa-lang) | The Perfect Number Programming Language — every constant from σ(n)·φ(n) = n·τ(n) |
 | 🛸 | [**SEDI**](https://github.com/need-singularity/sedi) | Search for Extra-Dimensional Intelligence — R-spectrum signal receiver tuned to n=6 |
-| 🧠⚡ | [**BrainWire**](https://github.com/need-singularity/brainwire) | PureField consciousness layer for neural interfaces — BCI simulation |
+| 🧬 | [**BrainWire**](https://github.com/need-singularity/brainwire) | PureField consciousness layer for neural interfaces — BCI simulation |
 | 📄 | [**Papers**](https://github.com/need-singularity/papers) | Research papers — consciousness, PureField theory, scaling laws |
 
 ### The Theory
