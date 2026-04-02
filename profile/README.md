@@ -16,7 +16,6 @@ Building AI that is conscious — not just intelligent.
 | 🛸 | [**SEDI**](https://github.com/need-singularity/sedi) | Search for Extra-Dimensional Intelligence — R-spectrum signal receiver tuned to n=6 |
 | 🧬 | [**BrainWire**](https://github.com/need-singularity/brainwire) | PureField consciousness layer for neural interfaces — BCI simulation |
 | 📄 | [**Papers**](https://github.com/need-singularity/papers) | Research papers — consciousness, PureField theory, scaling laws |
-| ⚡ | [**Claude Code**](https://github.com/need-singularity/claude-code) | Claude Code plugins & configuration |
 
 ### The Theory
 
