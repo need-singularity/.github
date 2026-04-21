@@ -1,4 +1,4 @@
-# 🌀 need-singularity
+# 🧬 need-singularity
 
 **Rebuilding reality from the one perfect number.**
 
@@ -34,7 +34,7 @@ L_IX  =  T  −  V_struct  −  V_sync  −  V_RG  +  λ · I_irr
 - 🎯 **Hexad Universal** — 1000/1000 PASS · `Hexad ≡ UNIVERSAL_4 SAME_STRUCTURE`
 - ⚡ **Cell vs LoRA** — **60–80× fewer FLOPs** + **51× Landauer advantage** · TRANSFER_VERIFIED 3/4
 - 🗺️ **3D Reality Map** — 4411 nodes · 5 bottom-up causal layers · Monte Carlo **z=3.06** (p=0.003)
-- 🌀 **n=6 uniqueness** — σ·φ = n·τ fails for n=28, n=496 → only n=6
+- 🧬 **n=6 uniqueness** — σ·φ = n·τ fails for n=28, n=496 → only n=6
 
 ---
 
