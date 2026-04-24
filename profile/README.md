@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="../brand/need-singularity-2-github-org-1280x640.png" alt="need-singularity" width="960"/>
-</p>
-
 # 🧬 need-singularity
 
 **Rebuilding reality from the one perfect number.**
